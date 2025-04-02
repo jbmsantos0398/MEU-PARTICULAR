@@ -7,3 +7,48 @@
 <meta name="author" content="santos.12164@hotmail.com">
 <meta name="description" content="MEU PARTICULAR">
 <meta name="keywords" content="MEU PARTICULAR">
+
+
+
+
+
+<!---------------------------------------------------------------------------------->
+<p><li><a href="nomedapagina🔴/1 - Copia.html#ANCORA⚫">ANCORA⚫</a></li></p>
+<!---------------------------------------------------------------------------------->
+
+
+<!---------------------------------------------------------------------------------->
+<!-------------------------------------RODAPÉ--------------------------------------->
+<!---------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------->
+<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width, initial-scale=1"><style>
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
+</style></head><body>
+<!----------------------------
+<a href="../../index.html"><P><div class="footer"><FONT SIZE=+3><B>&#9776; L I T A S  &#9776;</B></FONT></div></P></a>
+------------------------------------>
+<a href="../../index.html#ANCORA⚫"><div class="footer"><FONT SIZE=+3><B> V O L T A R </B></FONT></div></a>
+
+</body></html> 
+<!---------------------------------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+
+
